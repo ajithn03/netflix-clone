@@ -1,0 +1,65 @@
+
+.home {
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, rgba(40, 180, 133, 0.4), rgba(85, 197, 122, 0.4), rgba(40, 180, 133, 0.4)), url(./images/netflix.jpg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    color: white;
+ }
+  
+ .title{
+    color: rgb(255, 10, 10);
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 2%;
+    left: 3%;
+} 
+
+.signin{
+    font-size: 16px;
+    color:white;
+    background-color: red;
+    padding: 4px 9px;
+    border: 1px solid red;
+    border-radius: 3px;
+    position: absolute;
+    top:2%;
+    right: 3%;
+    font-weight: bold;
+}
+
+.content{
+    padding: 10px;
+    position: absolute;
+    top:30%;
+    left: 28%;
+    right: 28%;
+    bottom: 28%;
+}
+
+.content-1{
+    font-size: 38px;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+}
+
+.content-2{
+    font-size: 20px;
+    padding-left: 90px;
+}
+
+.btn1{
+    text-transform: uppercase;
+    font-weight: 400;
+    padding: 8px 14px;
+    background-color: red;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 3%;
+    color: white;
+    margin-left: 13%;
+}

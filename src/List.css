@@ -1,0 +1,19 @@
+.showlist{
+    height: 30vh;
+    border: 1px solid black;
+    
+}
+
+.bottom-image{
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+}
+
+.originals{
+    font-size:18px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
